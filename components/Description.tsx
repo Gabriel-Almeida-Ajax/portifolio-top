@@ -25,36 +25,35 @@ export function Descripton() {
             margin: "1em 0",
           }}
         >
-          Olá! Sou um desenvolvedor pleno com habilidades na stack React, React
-          Native, Angular, Node, Java e Asp.Net. Sou capaz de criar aplicativos
-          web e móveis para várias plataformas e linguagens de programação.
+          Olá! Como desenvolvedor pleno, possuo habilidades abrangentes para criar aplicativos web e móveis em várias plataformas e linguagens de programação. Especificamente, tenho experiência em React, React Native, Angular, Node.js, Java e Asp.Net.
         </p>
         <p
           style={{
             margin: "1em 0",
           }}
         >
-          No React e React Native, posso criar interfaces de usuário responsivas
-          e intuitivas para aplicativos web e móveis. Com o Angular, posso criar
-          aplicativos escaláveis e dinâmicos.
+          No que diz respeito a Frontend, o Angular, React e o React Native são ferramentas poderosas que me permitem criar interfaces de usuário responsivas e intuitivas sendo ferramentas úteis para criar aplicativos escaláveis e dinâmicos.
         </p>
         <p
           style={{
             margin: "1em 0",
           }}
         >
-          Para o desenvolvimento do back-end, utilizo o Node.js para gerenciar
-          bancos de dados, servidores e APIs. Além disso, com o Java e Asp.Net,
-          posso criar aplicativos corporativos robustos e escaláveis.
+          Para o desenvolvimento do back-end, utilizo o Node.js para gerenciar servidores, criar APIs e controlar o acesso ao banco de dados. Falando em bancos de dados, trabalhei com Prisma, Pool, JDBC, JPA e Dapper, que são gerenciadores de banco de dados utilizados para simplificar o acesso e a manipulação de dados em aplicativos.
         </p>
         <p
           style={{
             margin: "1em 0",
           }}
         >
-          Estou sempre em busca de novos desafios e oportunidades de aprendizado
-          para me manter atualizado e oferecer as melhores soluções aos meus
-          clientes e parceiros.
+          Com o Java e o Asp.Net, posso criar aplicativos corporativos robustos e escaláveis, bem como aplicativos web completos e sofisticados.
+        </p>
+        <p
+          style={{
+            margin: "1em 0",
+          }}
+        >
+          Busco constantemente me atualizar com as novas tecnologias e tendências do mercado, a fim de fornecer as melhores soluções para meus clientes e parceiros. Dessa forma, sou capaz de colaborar com equipes de desenvolvimento e entregar projetos de alta qualidade em prazos adequados.
         </p>
       </div>
       <div
