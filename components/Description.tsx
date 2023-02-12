@@ -32,21 +32,14 @@ export function Descripton() {
             margin: "1em 0",
           }}
         >
-          No que diz respeito a Frontend, o Angular, React e o React Native são ferramentas poderosas que me permitem criar interfaces de usuário responsivas e intuitivas sendo ferramentas úteis para criar aplicativos escaláveis e dinâmicos.
+          No que diz respeito a frontend, o Angular, React e o React Native são ferramentas poderosas que me permitem criar interfaces de usuário responsivas e intuitivas sendo ferramentas úteis para criar aplicativos escaláveis e dinâmicos.
         </p>
         <p
           style={{
             margin: "1em 0",
           }}
         >
-          Para o desenvolvimento do back-end, utilizo o Node.js para gerenciar servidores, criar APIs e controlar o acesso ao banco de dados. Falando em bancos de dados, trabalhei com Prisma, Pool, JDBC, JPA e Dapper, que são gerenciadores de banco de dados utilizados para simplificar o acesso e a manipulação de dados em aplicativos.
-        </p>
-        <p
-          style={{
-            margin: "1em 0",
-          }}
-        >
-          Com o Java e o Asp.Net, posso criar aplicativos corporativos robustos e escaláveis, bem como aplicativos web completos e sofisticados.
+          Com o Java, .Net, e o Node, posso criar aplicativos corporativos robustos e escaláveis, para gerenciar servidores, criar APIs e controlar o acesso ao banco de dados. Falando em bancos de dados, trabalhei com, PostgreSQL, PostGis, PLSQL Oracle, e NoSQL, com apoio do Prisma, Pool, JDBC, JPA e Dapper, que são gerenciadores de banco de dados utilizados para simplificar o acesso e a manipulação de dados em aplicativos.
         </p>
         <p
           style={{
