@@ -32,8 +32,8 @@ export const Services = () => (
 );
 
 type Props = {
-  title: string;
-  description: string;
+  title?: string;
+  description?: string;
 }
 
 export function Card({ children, title, description }: PropsWithChildren<Props>) {
